@@ -1,0 +1,14 @@
+{
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "files.autoSaveDelay": 500,
+    "editor.wordWrapColumn": 150,
+    "workbench.editor.enablePreview": false,
+    "files.eol": "\n",
+    "eslint.format.enable": true,
+    "json.maxItemsComputed": 100000,
+
+}
